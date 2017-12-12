@@ -1,1 +1,1 @@
-%{"logger_papertrail_backend": {:hex, :logger_papertrail_backend, "0.2.1", "12b814e3039525af3f18c0b839569776218e7ef6aeb022f8fcd532bfd17f7aa3", [:mix], []}}
+%{"logger_papertrail_backend": {:hex, :logger_papertrail_backend, "1.0.2", "9ebc566aedfd3e03a1ec1f0e1100a4534a670b928117a5eab9311b202ae19d70", [:mix], [], "hexpm"}}

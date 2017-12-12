@@ -16,7 +16,7 @@ defmodule LoggerPapertrailTest.Mixfile do
 
   defp deps do
     [
-      {:logger_papertrail_backend, "~> 0.2.0"}
+      {:logger_papertrail_backend, "~> 1.0"}
     ]
   end
 end
